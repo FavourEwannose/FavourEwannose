@@ -1,4 +1,4 @@
-![Personal Avatar] (assets/myavatar.jpg)?
+![Personal Avatar] (assets/myavatar.jpg)
 
 # Hi there, I'm Favour Enomongale Ewannose! 👋
 
