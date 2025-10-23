@@ -20,16 +20,16 @@ I’m a passionate frontend developer who thrives on turning ideas into function
 
 ### 🌟 Featured Projects
 
-- **Lawfirm Project**  
-  Creator and developer of a web app built for law firms.
+- **MadukaLawFirm**  
+  Creator and developer of lawfirm, a paltform for consulting lawyers.
 
-- **Virtual Counselling Project**  
+- **Guide.Me**  
   Developed a platform for virtual counselling sessions.
 
-- **School Project**  
-  Contributed as a frontend developer to enhance educational tools.
+- **Jelibit**  
+  built a schooling platform as a frontend developer to enhance educational tools.
 
-- **Team Project Collaboration**  
+- **FlowsateTeam**  
   Worked collaboratively on a dynamic web project as part of a team.
 
 ---
