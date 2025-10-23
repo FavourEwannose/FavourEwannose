@@ -1,4 +1,4 @@
-![Personal Avatar](https://avatars.githubusercontent.com/u/placeholder?v=4)?
+![Personal Avatar] (assets/myavatar.jpg)?
 
 # Hi there, I'm Favour Enomongale Ewannose! 👋
 
