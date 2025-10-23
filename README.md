@@ -1,4 +1,4 @@
-![Personal Avatar] (assets/myavatar.jpg)
+<img src="assets/myavatar.jpg" alt="Personal Avatar" width="150"/>
 
 # Hi there, I'm Favour Enomongale Ewannose! 👋
 
